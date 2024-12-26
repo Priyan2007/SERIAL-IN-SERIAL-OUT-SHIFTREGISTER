@@ -31,6 +31,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 3.Shift the contents of the register one position to the right (or left).
 4.Output the shifted bit from the last stage of the register. 
 5.Repeat steps 2-4 for each bit you want to input and shift.
+
+
 **PROGRAM**
 
 ![Screenshot 2024-12-25 154417](https://github.com/user-attachments/assets/b9d7192c-d5c7-49a3-a362-ac796ad26465)
