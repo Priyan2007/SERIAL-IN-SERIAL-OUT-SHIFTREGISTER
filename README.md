@@ -1,10 +1,10 @@
-## NAME: PRIYAN ##
+## NAME: PRIYAN 
 ## REG NO: 24000051
-## EXP NO: 10 SERIAL-IN-SERIAL-OUT-SHIFTREGISTER ##
+## EXP NO 6: IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFTREGISTER 
 
 **AIM:**
 
-To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
+To implement SISO Shift Register using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:**
 
